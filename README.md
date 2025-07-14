@@ -14,20 +14,18 @@ Sou um **desenvolvedor web** com experiência em tecnologias modernas de front-e
 ### 💼 Experiência e Áreas de Interesse
 
 - **Experiência em:** Desenvolvimento Web, Desenvolvimento Mobile  
-- **Tecnologias de Interesse:** React, Next.js, Node.js, Docker, SQL, Flutter  
-- **Objetivos:** Continuar aprendendo, evoluindo como desenvolvedor fullstack e contribuindo para projetos inovadores
+- **Tecnologias de Interesse:** React, Next.js, Tailwind CSS, Supabase, SQL, Flutter  
+- **Objetivos:** Continuar evoluindo como desenvolvedor fullstack e contribuindo para projetos inovadores
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-### Estatísticas Gerais e Streak Stats
-
 | Estatísticas Gerais | Linguagens Mais Usadas |
 |:--------------------:|:-------------:|
 | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyGodoy&show_icons=true&count_private=true&theme=radical&hide_border=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=radical&hide_border=true) |
 
-### Troféus
+### 🏆 Troféus
 
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
 
@@ -35,23 +33,36 @@ Sou um **desenvolvedor web** com experiência em tecnologias modernas de front-e
 
 ## 🌟 Projetos Destacados
 
-### [Despesas Pessoais App](https://github.com/PyGodoy/DespesasPessoaisApp)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### [PGMenu](https://github.com/PyGodoy/pgmenu)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-Um aplicativo para gerenciar despesas pessoais com uma interface intuitiva e funcionalidades robustas para controle financeiro.  
-- **Tecnologias:** Dart, Flutter  
-- **Descrição:** Permite o rastreamento eficiente de despesas e receitas, com gráficos e relatórios detalhados.
+Sistema digital de cardápio para restaurantes com painel administrativo completo.  
+- **Tecnologias:** React, Next.js, Supabase  
+- **Descrição:** Cardápio online com gerenciamento de itens, categorias e controle em tempo real via Supabase.
 
-![Estrelas](https://img.shields.io/github/stars/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Issues)
+![Estrelas](https://img.shields.io/github/stars/PyGodoy/pgmenu?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/pgmenu?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/pgmenu?style=for-the-badge&logo=github&label=Issues)
 
-### [GvSwim](https://github.com/PyGodoy/gvswim)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando nadadores e treinadores a otimizar o desempenho.  
-- **Tecnologias:** Dart, Flutter  
-- **Descrição:** Oferece acompanhamento detalhado de treinos e performances com relatórios e estatísticas.
+### [Sistema Apanat Treinamento](https://github.com/PyGodoy/SistemaApanatTreinamento)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Estrelas](https://img.shields.io/github/stars/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Issues)
+Sistema completo para gerenciamento dos treinamentos da APANAT.  
+- **Tecnologias:** React, Next.js, SQL  
+- **Descrição:** Plataforma web para controle de treinos, atletas e relatórios, com autenticação e rotas protegidas.
+
+![Estrelas](https://img.shields.io/github/stars/PyGodoy/SistemaApanatTreinamento?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/SistemaApanatTreinamento?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/SistemaApanatTreinamento?style=for-the-badge&logo=github&label=Issues)
+
+---
+
+### [FinJovem](https://github.com/PyGodoy/finjovem)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+Aplicação web para educação financeira de jovens com interface moderna e gamificada.  
+- **Tecnologias:** Next.js, Tailwind CSS  
+- **Descrição:** Ajuda jovens a aprenderem a gerenciar dinheiro através de simulações, objetivos e conteúdo educativo.
+
+![Estrelas](https://img.shields.io/github/stars/PyGodoy/finjovem?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/finjovem?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/finjovem?style=for-the-badge&logo=github&label=Issues)
 
 ---
 
@@ -59,9 +70,9 @@ Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando n
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -69,7 +80,9 @@ Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando n
 
 ## 💬 Entre em Contato
 
-Estou sempre aberto para conversas sobre tecnologia, novos projetos ou oportunidades de colaboração. Sinta-se à vontade para me contatar!
+Estou sempre aberto para conversas sobre tecnologia, novos projetos ou oportunidades de colaboração.  
+📧 **godoyvitorio99@gmail.com**  
+🔗 [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
 
 ---
 
