@@ -45,7 +45,7 @@ Sistema digital de cardápio para restaurantes com painel administrativo complet
 ---
 
 ### [Sistema Apanat Treinamento](https://github.com/PyGodoy/SistemaApanatTreinamento)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 Sistema completo para gerenciamento dos treinamentos da APANAT.  
 - **Tecnologias:** React, Next.js, SQL  
