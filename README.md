@@ -13,8 +13,8 @@ Sou um **desenvolvedor web** com experiência em tecnologias modernas de front-e
 
 ### 💼 Experiência e Áreas de Interesse
 
-- **Experiência em:** Desenvolvimento Web, Desenvolvimento Mobile  
-- **Tecnologias de Interesse:** React, Next.js, Tailwind CSS, Supabase, SQL, Flutter  
+- **Experiência em:** Desenvolvimento Web Full-Stack
+- **Tecnologias de Interesse:** React, Next.js, Typescript, Tailwind CSS, Node.js, Java, Supabase, SQL
 - **Objetivos:** Continuar evoluindo como desenvolvedor fullstack e contribuindo para projetos inovadores
 
 ---
