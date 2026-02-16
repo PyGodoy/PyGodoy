@@ -19,27 +19,17 @@ Sou um **desenvolvedor web** com experiência em tecnologias modernas de front-e
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-| Estatísticas Gerais | Linguagens Mais Usadas |
-|:--------------------:|:-------------:|
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyGodoy&show_icons=true&count_private=true&theme=radical&hide_border=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=radical&hide_border=true) |
-
-### 🏆 Troféus
-
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
-
----
-
 ## 🛠️ Tecnologias que Domino
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
