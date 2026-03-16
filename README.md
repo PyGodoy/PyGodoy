@@ -1,5 +1,5 @@
 # Mikaell Godoy
-### Mobile Developer · Flutter · Node.js
+### Mobile Developer · Flutter · Dart · Node.js · Golang
 
 Desenvolvedor mobile especializado em Flutter, com foco em criar aplicações performáticas, bem arquitetadas e com ótima experiência de usuário. Trabalho com o ecossistema completo — do app ao backend — entregando soluções end-to-end.
 
@@ -35,7 +35,7 @@ Desenvolvedor mobile especializado em Flutter, com foco em criar aplicações pe
 
 ## O que eu construo
 
-Aplicações mobile completas com Flutter — arquitetura MVVM, autenticação JWT, integração com APIs REST, controle de estado, persistência local e experiência de usuário refinada. No backend, construo APIs escaláveis com Node.js e PostgreSQL, com foco em segurança e performance.
+Aplicações mobile completas com Flutter — arquitetura MVVM, autenticação JWT, integração com APIs REST, controle de estado, persistência local e experiência de usuário refinada. No backend, construo APIs escaláveis com Node.js, Golang e PostgreSQL, com foco em segurança e performance.
 
 ---
 
