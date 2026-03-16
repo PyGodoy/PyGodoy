@@ -1,46 +1,61 @@
-# 👋 Olá, Sou Mikaell de Godoy Vitorio
+# Mikaell Godoy
+### Mobile Developer · Flutter · Node.js
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para crescer. Aqui você encontrará uma coleção dos meus projetos, contribuições e um pouco mais sobre mim.
+Desenvolvedor mobile especializado em Flutter, com foco em criar aplicações performáticas, bem arquitetadas e com ótima experiência de usuário. Trabalho com o ecossistema completo — do app ao backend — entregando soluções end-to-end.
 
----
-
-## 🚀 Sobre Mim
-
-Sou um **desenvolvedor web** com experiência em tecnologias modernas de front-end e back-end. Tenho paixão por resolver problemas complexos e criar soluções escaláveis e eficientes. Estou sempre aprendendo e acompanhando as tendências do desenvolvimento.
-
-- **Localização:** Palmas, Tocantins  
-- **Contato:** godoyvitorio99@gmail.com | [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
-
-### 💼 Experiência e Áreas de Interesse
-
-- **Experiência em:** Desenvolvimento Web Full-Stack
-- **Tecnologias de Interesse:** React, Next.js, Typescript, Tailwind CSS, Node.js, Java, Supabase, SQL
-- **Objetivos:** Continuar evoluindo como desenvolvedor fullstack e contribuindo para projetos inovadores
+- 📍 Palmas, Tocantins
+- 📧 godoyvitorio99@gmail.com
+- 💼 [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
 
 ---
 
-## 🛠️ Tecnologias que Domino
+## Especialidades
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & Outros**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-## 💬 Entre em Contato
+## O que eu construo
 
-Estou sempre aberto para conversas sobre tecnologia, novos projetos ou oportunidades de colaboração.  
-📧 **godoyvitorio99@gmail.com**  
-🔗 [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
+Aplicações mobile completas com Flutter — arquitetura MVVM, autenticação JWT, integração com APIs REST, controle de estado, persistência local e experiência de usuário refinada. No backend, construo APIs escaláveis com Node.js e PostgreSQL, com foco em segurança e performance.
 
 ---
 
-Obrigado por visitar o meu perfil! 🚀
+## Projeto em Destaque
 
-**Mikaell de Godoy Vitorio**
+### 🏊 Apanat App
+Aplicativo completo para gerenciamento de uma academia de natação.
+
+- Sistema de autenticação com JWT e bcrypt
+- Grade de aulas semanal com check-in persistente
+- Controle de acesso por perfil (admin/aluno)
+- Painel administrativo para gestão de aulas e notificações
+- Foto de perfil com upload da galeria
+- Backend em Node.js + PostgreSQL (NeonDB)
+
+**Stack:** Flutter · Dart · Node.js · Express · PostgreSQL · JWT
+
+---
+
+## Contato
+
+Se quiser trocar uma ideia sobre mobile, arquitetura de apps ou oportunidades, pode me chamar!
+
+📧 godoyvitorio99@gmail.com · [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
