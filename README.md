@@ -44,9 +44,9 @@ Desenvolvedor full-stack com experiência em aplicações mobile e sistemas web,
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
 
-### 🏊 Apanat App
+### 📱 Mobile · 🏊 Apanat App
 Aplicativo completo para gerenciamento de uma academia de natação.
 
 - Sistema de autenticação com JWT e bcrypt
@@ -57,6 +57,22 @@ Aplicativo completo para gerenciamento de uma academia de natação.
 - Backend em Node.js + PostgreSQL (NeonDB)
 
 **Stack:** Flutter · Dart · Node.js · Express · PostgreSQL · JWT
+
+---
+
+### 🌐 Web · 🗓️ Zenda
+Plataforma SaaS multi-tenant de agendamento online para clínicas de psicologia e profissionais da saúde. *(em desenvolvimento)*
+
+- Arquitetura multi-tenant: uma única aplicação atende várias clínicas com isolamento total dos dados
+- Isolamento garantido no banco com Row Level Security (RLS) do PostgreSQL, não apenas na aplicação
+- Resolução de tenant no middleware do Next.js por slug ou domínio customizado, com tema dinâmico (logo e cores de cada clínica)
+- Autenticação JWT com controle de acesso por perfil (admin, recepcionista, profissional e paciente)
+- Agendamento self-service com motor de horários que cruza disponibilidade, bloqueios de agenda e consultas já marcadas
+- Assinaturas recorrentes via Stripe Checkout, com webhooks verificados por assinatura e processamento idempotente
+- Automações de WhatsApp (confirmação e lembretes) via Evolution API, com instância por clínica
+- Deploy em VPS com Docker e Nginx como proxy reverso, SSL automático e CI/CD
+
+**Stack:** Next.js · TypeScript · React · Tailwind CSS · NestJS · Node.js · PostgreSQL (Supabase) · Stripe · Docker
 
 ---
 
