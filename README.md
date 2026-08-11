@@ -1,7 +1,7 @@
 # Mikaell Godoy
 ### Full-Stack Developer · Flutter · React · Node.js · Golang
 
-Desenvolvedor full-stack com experiência em aplicações mobile e sistemas web, focado em criar soluções performáticas, bem arquitetadas e com ótima experiência de usuário. Trabalho com o ecossistema completo — do app e da interface web ao backend — entregando soluções end-to-end.
+Desenvolvedor full-stack com experiência em aplicações mobile e sistemas web, focado em criar soluções performáticas, bem arquitetadas e com ótima experiência de usuário. Trabalho com o ecossistema completo, do app e da interface web ao backend, entregando soluções end-to-end.
 
 - 📍 Palmas, Tocantins
 - 📧 godoyvitorio99@gmail.com
